@@ -1,5 +1,5 @@
 body {background-color: rgb(253, 251, 251);}
-header{top: 0; background-color: rgb(68, 79, 136);margin-top: 20px;text-align: center;color: rgb(245, 224, 188);height: 50px;}
+header{top: 0; background-color: rgb(68, 79, 136);margin-top: 20px;text-align: center;color: rgb(245, 224, 188);height: 50px; text-decoration: underline;}
 img{width: 250px;
     height: 250px;
     border: 8px solid blueviolet;position: absolute;border-radius: 50%;right: 450px; margin: 25px}
