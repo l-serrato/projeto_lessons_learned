@@ -2,8 +2,11 @@ body {background-color: rgb(253, 251, 251);}
 header{top: 0; background-color: rgb(68, 79, 136);margin-top: 20px;text-align: center;color: rgb(245, 224, 188);height: 50px;}
 img{width: 250px;
     height: 250px;
-    border: 8px solid blueviolet;position: absolute;border-radius: 50%;right: 100px; margin: 25px}
+    border: 8px solid blueviolet;position: absolute;border-radius: 50%;right: 450px; margin: 25px}
     ol, ul{display: inline-block;}
+    aside{display: inline-block;width: 300px;text-align: right;position: sticky;left: 850px;
+        padding-left: 15px;
+        margin-left: 15px;}
     article{margin-bottom: 100px;}
     .button{
         background-color: rgb(44, 98, 125);color: #fff;border-radius: 4px;padding: 15px 30px; text-decoration: none;
